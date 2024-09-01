@@ -1,7 +1,0 @@
-Flask
-joblib
-numpy
-pandas
-scikit-learn
-flask
-flask_cors
